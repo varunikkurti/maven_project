@@ -17,22 +17,23 @@
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-linkedin"></i></a>
             <a href="#"><i class="fab fa-github"></i></a>
+            
             <h2>Skills</h2>
-            <p>Linux.</p>
-            <p>AWS.</p>
-            <p>Jenkins.</p>
-            <p>Ansible.</p>
-            <p>Docker.</p>
-            <p>Github.</p>
-            <p>ServiceNow</p>
-            <p>Nagios</p>
-            <p>Terraform</p>
-            <p>SonarQube.</p>
-            <p>Nexus.</p>
-            <p>Kubernetes.</p>
-            <p>Cloud Watch.</p>
-            <p>Python.</p>
-            <p>Tomcat.</p>
+                      <p>Linux</p>
+                      <p>AWS</p>
+                      <p>Jenkins</p>
+                      <p>Ansible</p>
+                      <p>Docker</p>
+                      <p>Github</p>
+                      <p>ServiceNow</p>
+                      <p>Nagios</p>
+                      <p>Terraform</p>
+                      <p>SonarQube</p>
+                      <p>Nexus</p>
+                      <p>Kubernetes</p>
+                      <p>Cloud Watch</p>
+                      <p>Python</p>
+                      <p>Tomcat</p>
         </div>
         
         <div class="section-2">
