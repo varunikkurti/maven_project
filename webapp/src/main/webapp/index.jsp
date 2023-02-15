@@ -12,7 +12,7 @@
     <div class="grid-2">
         <div class="section-1">
             <i class="fas fa-code fa-5x white"></i>
-            <h2>SIPNATECH</h2>
+            <h2>VARUN IKKURTI</h2>
             <p>India</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-linkedin"></i></a>
@@ -20,7 +20,10 @@
         </div>
         <div class="section-2">
             <h2>About</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quas sint et nihil iusto eius nostrum sit error, repellat optio quisquam! Magnam dolore iusto cumque. Nostrum error iste neque maiores.</p>
+            <p>I would like to obtain a challenging position in IT where my technical and interpersonal skills can be utilized to benefit both me and Organization.</p> 
+            <p>I can describe myself as AWS DevOPS Engineer who is technical sound with  Linux/Windows Administration,  Support & Services skills.</p>  
+            <p>Also familiar with the ITIL & Incident management handling process.</p>
+            <p>Have completed several IT trainings such as Devops, Red Hat System Administration and AWS Sys Admin.</p>
             <h2>Experience</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem.</p>
 
