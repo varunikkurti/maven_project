@@ -25,7 +25,19 @@
             <p>Also familiar with the ITIL & Incident management handling process.</p>
             <p>Have completed several IT trainings such as Devops, Red Hat System Administration and AWS Sys Admin.</p>
             <h2>Experience</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem.</p>
+            <p>Capgemini Aug 2018 ­ Present.</p>
+            <p>­ AWS DevOps Engineer</p>
+            <p>­ Solid Knowledge with Linux ( Centos, Ubuntu ) administration.</p>
+            <p>­ User administration and password policy management.
+            <p>­ Expirience with AWS including but not limited to EC2, S3, RDS, IAM and Router 53. </p>
+            <p>­ Good hands on knowledge of Source Code Management (Version Control System) tools like Git and Subversion.</p>
+            <p>­ Proficient in developing Continuous Integration/ Delivery pipelines.</p>
+            <p>­ Good Knowledge with automation/ integration tools like Jenkins.</p>
+            <p>­ Knowledge of major cloud service providers, like AWS.</p>
+            <p>­ Deploy, manage, and maintain applications and systems deployed to AWS.</p>
+            <p>­ Good understanding of server monitoring systems like Prometheus.</p>
+            <p>­ Create and maintain automated CI/CD pipelines using Jenkins which includes managing the system and credentials. backup and restore, build agents.</p>
+            <p>­ Skilled in managing Kubernetes Clusters, AWS Services, AWS DevOps in Implementing CI/CD and managing the infrastructure also working on Version Control System.</p>
 
             <h2>Skills</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem obcaecati excepturi! Cupiditate eaque itaque magni voluptatibus neque nobis est dolor? Atque sunt minus ipsa asperiores. At.</p>
