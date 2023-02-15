@@ -11,7 +11,7 @@
 <body>
     <div class="grid-2">
         <div class="section-1">
-            <img src="https://photos.app.goo.gl/pwbzmvJnWSKySKpg7" alt="varunikkurti" /> </p>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcLGUqCAP4WQLgJnSag2WSmunmjVsmZKA3ucpVg-TxuHcdDfOPxFVxrRtvSmIz6QMHTXE&usqp=CAU" alt="varunikkurti" /> </p>
             <h2>VARUN IKKURTI</h2>
             <p>India</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
