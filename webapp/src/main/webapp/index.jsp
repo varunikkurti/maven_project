@@ -21,7 +21,7 @@
         <div class="section-2">
             <h2>About</h2>
             <p>I would like to obtain a challenging position in IT where my technical and interpersonal skills can be utilized to benefit both me and Organization.</p> 
-            <p>I can describe myself as AWS DevOPS Engineer who is technical sound with  Linux/Windows Administration,  Support & Services skills.</p>  
+            <p>I can describe myself as AWS DevOPS Engineer who is technical sound with Linux/Windows Administration, Support & Services skills.</p>  
             <p>Also familiar with the ITIL & Incident management handling process.</p>
             <p>Have completed several IT trainings such as Devops, Red Hat System Administration and AWS Sys Admin.</p>
             <h2>Experience</h2>
