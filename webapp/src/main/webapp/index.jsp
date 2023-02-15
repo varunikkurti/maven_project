@@ -40,7 +40,7 @@
             <p>Skilled in managing Kubernetes Clusters, AWS Services, AWS DevOps in Implementing CI/CD and managing the infrastructure also working on Version Control System.</p>
 
             <h2>Skills</h2>
-            <p>Linux system administration,AWS,Jenkins,Ansible,Docker,Github,ServiceNow,Nagios,Terraform,SonarQube,Nexus,Kubernetes,Cloud Watch,Python,Tomcat</p>
+            <p>Linux,AWS,Jenkins,Ansible,Docker,Github,ServiceNow,Nagios,Terraform,SonarQube,Nexus,Kubernetes,Cloud Watch,Python,Tomcat</p>
            
             <h2>Contact</h2>
             <p>varunikkurti@gmail.com</p>
