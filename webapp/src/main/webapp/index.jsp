@@ -19,21 +19,21 @@
             <a href="#"><i class="fab fa-github"></i></a>
             
             <h2>Skills</h2>
-                        <p>&emsp; &emsp; &nbsp; Linux</p>
-                        <p>&emsp; &emsp; &nbsp; AWS</p>
-                        <p>&emsp; &emsp; &nbsp; Jenkins</p>
-                        <p>&emsp; &emsp; &nbsp; Ansible</p>
-                        <p>&emsp; &emsp; &nbsp; Docker</p>
-                        <p>&emsp; &emsp; &nbsp; Github</p>
-                        <p>&emsp; &emsp; &nbsp; ServiceNow</p>
-                        <p>&emsp; &emsp; &nbsp; Nagios</p>
-                        <p>&emsp; &emsp; &nbsp; Terraform</p>
-                        <p>&emsp; &emsp; &nbsp; SonarQube</p>
-                        <p>&emsp; &emsp; &nbsp; Nexus</p>
-                        <p>&emsp; &emsp; &nbsp; Kubernetes</p>
-                        <p>&emsp; &emsp; &nbsp; Cloud Watch</p>
-                        <p>&emsp; &emsp; &nbsp; Python</p>
-                        <p>&emsp; &emsp; &nbsp; Tomcat</p>
+                        <p>Linux</p>
+                        <p>AWS</p>
+                        <p>Jenkins</p>
+                        <p>Ansible</p>
+                        <p>Docker</p>
+                        <p>Github</p>
+                        <p>ServiceNow</p>
+                        <p>Nagios</p>
+                        <p>Terraform</p>
+                        <p>SonarQube</p>
+                        <p>Nexus</p>
+                        <p>Kubernetes</p>
+                        <p>Cloud Watch</p>
+                        <p>Python</p>
+                        <p>Tomcat</p>
         </div>
         
         <div class="section-2">
