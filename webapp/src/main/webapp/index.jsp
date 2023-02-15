@@ -25,7 +25,7 @@
             <p>Also familiar with the ITIL & Incident management handling process.</p>
             <p>Have completed several IT trainings such as Devops, Red Hat System Administration and AWS Sys Admin.</p>
             <h2>Experience</h2>
-            <p>Capgemini Aug 2018  Present.</p>
+            <p>Capgemini Aug 2018 - Present.</p>
             <p>AWS DevOps Engineer</p>
             <p>Solid Knowledge with Linux ( Centos, Ubuntu ) administration.</p>
             <p>User administration and password policy management.
