@@ -11,6 +11,7 @@
 <body>
     <div class="grid-2">
         <div class="section-1">
+            <img src="https://komarev.com/ghpvc/?username=varunikkurti&label=Profile%20views&color=0e75b6&style=flat" alt="varunikkurti" /> </p>
             <h2>VARUN IKKURTI</h2>
             <p>India</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
