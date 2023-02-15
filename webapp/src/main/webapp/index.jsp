@@ -17,7 +17,24 @@
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-linkedin"></i></a>
             <a href="#"><i class="fab fa-github"></i></a>
+            <h2>Skills</h2>
+            <p>Linux.</p>
+            <p>AWS.</p>
+            <p>Jenkins.</p>
+            <p>Ansible.</p>
+            <p>Docker.</p>
+            <p>Github.</p>
+            <p>ServiceNow</p>
+            <p>Nagios</p>
+            <p>Terraform</p>
+            <p>SonarQube.</p>
+            <p>Nexus.</p>
+            <p>Kubernetes.</p>
+            <p>Cloud Watch.</p>
+            <p>Python.</p>
+            <p>Tomcat.</p>
         </div>
+        
         <div class="section-2">
             <h2>About</h2>
             <p>I would like to obtain a challenging position in IT where my technical and interpersonal skills can be utilized to benefit both me and Organization.</p> 
@@ -39,9 +56,6 @@
             <p>Create and maintain automated CI/CD pipelines using Jenkins which includes managing the system and credentials. backup and restore, build agents.</p>
             <p>Skilled in managing Kubernetes Clusters, AWS Services, AWS DevOps in Implementing CI/CD and managing the infrastructure also working on Version Control System.</p>
 
-            <h2>Skills</h2>
-            <p>Linux,AWS,Jenkins,Ansible,Docker,Github,ServiceNow,Nagios,Terraform,SonarQube,Nexus,Kubernetes,Cloud Watch,Python,Tomcat</p>
-           
             <h2>Contact</h2>
             <p>varunikkurti@gmail.com</p>
              <p>Phone:- 9014563704 </p>
