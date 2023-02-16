@@ -48,7 +48,7 @@
             <p>Solid Knowledge with Linux ( Centos, Ubuntu ) administration.</p>
             <p>User administration and password policy management.
             <p>Expirience with AWS including but not limited to EC2, S3, RDS, IAM and Router 53. </p>
-            <p>Good hands on knowledge of Source Code Management (Version Control System) tools like Git and Subversion.</p>
+            <p>Good hands on knowledge of Source Code Management (Version Control System) tools like Git.</p>
             <p>Proficient in developing Continuous Integration/ Delivery pipelines.</p>
             <p>Good Knowledge with automation/ integration tools like Jenkins.</p>
             <p>Knowledge of major cloud service providers, like AWS.</p>
