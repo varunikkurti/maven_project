@@ -1,57 +1,143 @@
-<!-- FONTS -->
-<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<div class="resume-wrapper">
+	<section class="profile section-padding">
+		<div class="container">
+			<div class="picture-resume-wrapper">
+        <div class="picture-resume">
+        <span><img src="https://s3.amazonaws.com/uifaces/faces/twitter/jsa/128.jpg" alt="" /></span>
+        <svg version="1.1" viewBox="0 0 350 350">
+  
+  <defs>
+    <filter id="goo">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 21 -9" result="cm" />
+    </filter>
+  </defs>
+  
+  
+<g filter="url(#goo)" >  
+  
+  <circle id="main_circle" class="st0" cx="171.5" cy="175.6" r="130"/>
+  
+  <circle id="circle" class="bubble0 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble1 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble2 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble3 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble4 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble5 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble6 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble7 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble8 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble9 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble10 st1" cx="171.5" cy="175.6" r="122.7"/>
 
-<!-- PAGE STUFF -->
-<div class="rela-block page">
-    <div class="rela-block top-bar">
-        <div class="caps name"><div class="abs-center">Kyle J Shanks</div></div>
-    </div>
-    <div class="side-bar">
-        <div class="mugshot">
-            <div class="logo">
-                <svg viewbox="0 0 80 80" class="rela-block logo-svg">
-                    <path d="M 10 10 L 52 10 L 72 30 L 72 70 L 30 70 L 10 50 Z" stroke-width="2.5" fill="none"/>
-                </svg>
-                <p class="logo-text">kj</p>
-            </div>
+</g>  
+</svg>
+      </div>
+         <div class="clearfix"></div>
+ </div>
+      <div class="name-wrapper">
+        <h1>John <br/>Anderson</h1><!-- YOUR NAME AND LAST NAME  -->
+      </div>
+      <div class="clearfix"></div>
+      <div class="contact-info clearfix">
+      	<ul class="list-titles">
+      		<li>Call</li>
+      		<li>Mail</li>
+      		<li>Web</li>
+      		<li>Home</li>
+      	</ul>
+        <ul class="list-content ">
+        	<li>+34 123 456 789</li> <!-- YOUR PHONE NUMBER  -->
+        	<li>j.anderson@gmail.com</li> <!-- YOUR EMAIL -->
+        	<li><a href="#">janderson.com</a></li> <!-- YOUR WEBSITE  -->
+        	<li>Los Angeles, CA</li> <!-- YOUR STATE AND COUNTRY  -->
+        </ul>
+      </div>
+      <div class="contact-presentation"> <!-- YOUR PRESENTATION RESUME  -->
+      	<p><span class="bold">Lorem</span> ipsum dolor sit amet, consectetur adipiscing elit. Vivamus euismod congue nisi, nec consequat quam. In consectetur faucibus turpis eget laoreet. Sed nec imperdiet purus. </p>
+      </div>
+      <div class="contact-social clearfix">
+      	<ul class="list-titles">
+      		<li>Twitter</li>
+      		<li>Dribbble</li>
+      		<li>Codepen</li>
+      	</ul>
+        <ul class="list-content"> <!-- REMEMBER TO PUT THE URL ON THE HREF TAG  -->
+      		<li><a href="">@janderson</a></li> <!-- YOUR TWITTER USER  -->
+      		<li><a href="">janderson</a></li> <!-- YOUR DRIBBBLE USER  -->
+      		<li><a href="">janderson</a></li> <!-- YOUR BEHANCE USER  -->
+      	</ul>
+      </div>
+		</div>
+	</section>
+  
+  <section class="experience section-padding">
+  	<div class="container">
+  		<h3 class="experience-title">Experience</h3>
+      
+      <div class="experience-wrapper">
+      	<div class="company-wrapper clearfix">
+      		<div class="experience-title">Company name</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
+          <div class="time">Nov 2012 - Present</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
+      	</div>
+        
+        <div class="job-wrapper clearfix">
+        	<div class="experience-title">Front End Developer </div> <!-- JOB TITLE  -->
+          <div class="company-description">
+          	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>  <!-- JOB DESCRIPTION  -->
+          </div>
         </div>
-        <p>123 My Place Drive</p>
-        <p>Astoria, New York 11105</p>
-        <p>1-800-CALLPLZ</p>
-        <p>emailsareforsquares@gmail.com</p><br>
-        <p class="rela-block social twitter">Twitter stuff</p>
-        <p class="rela-block social pinterest">Pinterest things</p>
-        <p class="rela-block social linked-in">Linked-in man</p>
-        <p class="rela-block caps side-header">Expertise</p>
-        <p class="rela-block list-thing">HTML</p>
-        <p class="rela-block list-thing">CSS (Stylus)</p>
-        <p class="rela-block list-thing">JavaScript & jQuery</p>
-        <p class="rela-block list-thing">Killer Taste</p>
-        <p class="rela-block caps side-header">Education</p>
-        <p class="rela-block list-thing">Advanced potion making</p>
-        <p class="rela-block list-thing">Degree in popping and locking</p>
-        <p class="rela-block list-thing">Knitting game on point</p>
-        <p class="rela-block list-thing">Culinary af</p>
-    </div>
-    <div class="rela-block content-container">
-        <h2 class="rela-block caps title">Jr Front-End Developer</h2>
-        <div class="rela-block separator"></div>
-        <div class="rela-block caps greyed">Profile</div>
-        <p class="long-margin">Retro DIY quinoa, mixtape williamsburg master cleanse bushwick tumblr chillwave dreamcatcher hella wolf paleo. Knausgaard semiotics truffaut cornhole hoodie, YOLO meggings gochujang tofu. Locavore ugh kale chips iPhone biodiesel typewriter freegan, kinfolk brooklyn kitsch man bun. Austin neutra etsy, lumbersexual paleo cornhole sriracha kinfolk meggings kickstarter. </p>
-        <div class="rela-block caps greyed">Experience</div>
-
-        <h3>Job #1</h3>
-        <p class="light">First job description</p>
-        <p class="justified">Plaid gentrify put a bird on it, pickled XOXO farm-to-table irony raw denim messenger bag leggings. Hoodie PBR&B photo booth, vegan chillwave meh paleo freegan ramps. Letterpress shabby chic fixie semiotics. Meditation sriracha banjo pour-over. Gochujang pickled hashtag mixtape cred chambray. Freegan microdosing VHS, 90's bicycle rights aesthetic hella PBR&B. </p>
         
-        <h3>Job #2</h3>
-        <p class="light">Second Job Description</p>
-        <p class="justified">Beard before they sold out photo booth distillery health goth. Hammock franzen green juice meggings, ethical sriracha tattooed schlitz mixtape man bun stumptown swag whatever distillery blog. Affogato iPhone normcore, meggings actually direct trade lomo plaid franzen shoreditch. Photo booth pug paleo austin, pour-over banh mi scenester vice food truck slow-carb. Street art kogi normcore, vice everyday carry crucifix thundercats man bun raw denim echo park pork belly helvetica vinyl. </p>
+        <div class="company-wrapper clearfix">
+      		<div class="experience-title">Company name</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
+          <div class="time">Nov 2010 - Present</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
+      	</div>
         
-        <h3>Job #3</h3>
-        <p class="light">Third Job Description</p>
-        <p class="justified">Next level roof party lo-fi fingerstache skateboard, kogi tumblr. Shabby chic put a bird on it chambray, 3 wolf moon swag beard brooklyn post-ironic taxidermy art party microdosing keffiyeh marfa. Put a bird on it 3 wolf moon cliche helvetica knausgaard. Mumblecore fingerstache lomo, artisan freegan keffiyeh paleo kinfolk kale chips street art blog flannel.</p>
-    </div>
+         <div class="job-wrapper clearfix">
+        	<div class="experience-title">Freelance, Web Designer / Web Developer</div> <!-- JOB TITLE  -->
+          <div class="company-description">
+          	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>  <!-- JOB DESCRIPTION  -->
+          </div>
+        </div>
+        
+        <div class="company-wrapper clearfix">
+      		<div class="experience-title">Company name</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
+          <div class="time">Nov 2009 - Nov 2010</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
+      	</div> 
+        
+         <div class="job-wrapper clearfix">
+        	<div class="experience-title">Web Designer </div> <!-- JOB TITLE  -->
+          <div class="company-description">
+          	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>   <!-- JOB DESCRIPTION  -->
+          </div>
+        </div>
+        
+      </div><!--Skill experience-->
+      
+      <div class="section-wrapper clearfix">
+      	<h3 class="section-title">Skills</h3>  <!-- YOUR SET OF SKILLS  -->
+        	<ul>
+        		<li class="skill-percentage">HTML / HTML5</li>
+        		<li class="skill-percentage">CSS / CSS3 / SASS / LESS</li>
+        		<li class="skill-percentage">Javascript</li>
+        		<li class="skill-percentage">Jquery</li>
+        		<li class="skill-percentage">Wordpress</li>
+        		<li class="skill-percentage">Photoshop</li>
+            
+        	</ul>
+        
+      </div>
+      
+      <div class="section-wrapper clearfix">
+        <h3 class="section-title">Hobbies</h3>  <!-- DESCRIPTION OF YOUR HOBBIES -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>
+        
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p> 
+      </div>
+      
+  	</div>
+  </section>
+  
+  <div class="clearfix"></div>
 </div>
